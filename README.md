@@ -1,5 +1,7 @@
 # My-Blog: React Blog Application
 
+### live - https://my-blog-sanket.vercel.app/
+
 ## Overview
 
 My-Blog is a simple, interactive blog application built with React. It allows users to create, read, update, and delete blog posts. The application uses React's Context API for state management and features a clean, responsive design with gradient styling.
